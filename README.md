@@ -32,3 +32,15 @@ Just getting started. The main aim is to stay consistent and keep improving ever
 
 This repo is a record of my learning process. I’m focusing on understanding concepts properly rather than just increasing the number of solved problems.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
