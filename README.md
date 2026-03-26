@@ -39,8 +39,17 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
