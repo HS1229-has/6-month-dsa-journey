@@ -41,6 +41,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0001-two-sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0053-maximum-subarray) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0303-range-sum-query-immutable](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +58,12 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
