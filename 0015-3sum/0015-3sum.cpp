@@ -6,26 +6,24 @@ public:
         vector<vector<int>>ans;
         for(int i=0;i<n;i++){
             if(i>0 && nums[i]==nums[i-1]) continue;
-            int left=i+1; int right= n-1;
-            while(left<right){
-                int sum = nums[left]+nums[right]+nums[i];
+            int l=i+1; int r=n-1;
+            while(l<r){
+                int sum = nums[l]+nums[r]+nums[i];
                 if(sum<0){
-                    left++;
+                    l++;
                 }else if(sum>0){
-                    right--;
+                    r--;
                 }else{
-                ans.push_back({nums[left],nums[right],nums[i]});
-                left++; right--;
-
-                while(left < right && nums[left] == nums[left - 1]) {
-                        left++;
+                    ans.push_back({nums[l],nums[r],nums[i]});
+                    l++;r--;
+                    while(l<r && nums[l]==nums[l-1]){
+                        l++;
                     }
-
-                    while(left < right && nums[right] == nums[right + 1]) {
-                        right--;
+                    while(l<r && nums[r]==nums[r+1]){
+                        r--;
+                    }
                 }
             }
-        }
         }
         return ans;
     }
