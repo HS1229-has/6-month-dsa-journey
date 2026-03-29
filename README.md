@@ -43,6 +43,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Design
 |  |
 | ------- |
@@ -69,4 +71,8 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
