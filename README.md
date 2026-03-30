@@ -48,6 +48,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0283-move-zeroes](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0283-move-zeroes) |
 | [0011-container-with-most-water](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0075-sort-colors) |
+| [0724-find-pivot-index](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
 | ------- |
