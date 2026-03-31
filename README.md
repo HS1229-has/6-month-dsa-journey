@@ -53,6 +53,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0152-maximum-product-subarray](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0152-maximum-product-subarray) |
 | [0704-binary-search](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0704-binary-search) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0704-binary-search) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0035-search-insert-position) |
 ## Sorting
 |  |
 | ------- |
