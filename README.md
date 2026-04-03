@@ -63,6 +63,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | ------- |
 | [0001-two-sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -115,6 +116,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1108-defanging-an-ip-address) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
