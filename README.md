@@ -119,6 +119,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1108-defanging-an-ip-address](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [0541-reverse-string-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0541-reverse-string-ii) |
+| [0657-robot-return-to-origin](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0657-robot-return-to-origin) |
 ## Math
 |  |
 | ------- |
@@ -128,4 +129,8 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0048-rotate-image) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
