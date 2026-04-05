@@ -1,25 +1,36 @@
 class Solution {
 public:
     bool judgeCircle(string moves) {
-        int n= moves.length();
-        int count1=0;
-        int count2=0;
-        int count3=0;
-        int count4=0;
-        for(int i=0;i<n;i++){
-            if(moves[i]=='U'){
-                count1++;
-            }else if(moves[i]=='D'){
-                count2++;
-            }else if(moves[i]=='L'){
-                count3++;
-            }else{
-                count4++;
-            }
+        // int n= moves.length();
+        // int count1=0;
+        // int count2=0;
+        // int count3=0;
+        // int count4=0;
+        // for(int i=0;i<n;i++){
+        //     if(moves[i]=='U'){
+        //         count1++;
+        //     }else if(moves[i]=='D'){
+        //         count2++;
+        //     }else if(moves[i]=='L'){
+        //         count3++;
+        //     }else{
+        //         count4++;
+        //     }
+        // }
+        // if(count1==count2 && count3==count4){
+        //     return true;
+        // }else return false;
+
+         int x = 0, y = 0;
+
+        for (char move : moves) {
+            if (move == 'U') y++;
+            else if (move == 'D') y--;
+            else if (move == 'L') x--;
+            else if (move == 'R') x++;
         }
-        if(count1==count2 && count3==count4){
-            return true;
-        }else return false;
+
+        return (x == 0 && y == 0);
 
     }
 };
