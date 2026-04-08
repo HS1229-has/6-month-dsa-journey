@@ -65,6 +65,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0001-two-sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [0141-linked-list-cycle](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0141-linked-list-cycle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -87,6 +88,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0088-merge-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0088-merge-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0876-middle-of-the-linked-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0141-linked-list-cycle) |
 ## Design
 |  |
 | ------- |
@@ -144,6 +146,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0206-reverse-linked-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0876-middle-of-the-linked-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
