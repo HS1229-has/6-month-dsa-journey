@@ -91,6 +91,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0142-linked-list-cycle-ii) |
+| [0061-rotate-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0061-rotate-list) |
 ## Design
 |  |
 | ------- |
@@ -150,6 +151,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0142-linked-list-cycle-ii) |
+| [0061-rotate-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
