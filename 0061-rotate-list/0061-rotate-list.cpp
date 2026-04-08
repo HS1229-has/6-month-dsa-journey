@@ -11,25 +11,25 @@
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        if (!head || !head->next) return head;
+        if(!head || !head->next) return head;
         int count=0;
         ListNode* temp=head;
         while(temp!=NULL){
             count++;
             temp=temp->next;
         }
-          k=k%count;
-        if(k==0) return head;
-      
+        k=k%count;
+        if(k==0){
+            return head;
+        }
         count=count-k;
-        ListNode* curr=head;
         ListNode* prev=NULL;
+        ListNode* curr=head;
         while(count--){
             prev=curr;
             curr=curr->next;
         }
-        prev->next=NULL;     // break kiya list ko 
-
+        prev->next=NULL;
         ListNode* tail=curr;
         while(tail->next!=NULL){
             tail=tail->next;
