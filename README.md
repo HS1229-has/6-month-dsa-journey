@@ -59,6 +59,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0033-search-in-rotated-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0088-merge-sorted-array) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [0141-linked-list-cycle](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0142-linked-list-cycle-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Divide and Conquer
 |  |
 | ------- |
