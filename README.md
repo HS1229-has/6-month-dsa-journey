@@ -60,6 +60,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0048-rotate-image](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0088-merge-sorted-array) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [0018-4sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0018-4sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0141-linked-list-cycle](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0061-rotate-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0061-rotate-list) |
+| [0018-4sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0018-4sum) |
 ## Design
 |  |
 | ------- |
@@ -121,6 +123,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0015-3sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0088-merge-sorted-array) |
+| [0018-4sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0018-4sum) |
 ## Greedy
 |  |
 | ------- |
