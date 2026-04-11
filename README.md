@@ -61,6 +61,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0088-merge-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0088-merge-sorted-array) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [0018-4sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,10 +71,12 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0141-linked-list-cycle](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0142-linked-list-cycle-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [0169-majority-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +127,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0075-sort-colors](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0088-merge-sorted-array) |
 | [0018-4sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -163,4 +167,8 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | ------- |
 | [0206-reverse-linked-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0206-reverse-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0021-merge-two-sorted-lists) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
