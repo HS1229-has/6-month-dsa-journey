@@ -62,6 +62,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [0018-4sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0169-majority-element) |
+| [0136-single-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,4 +172,8 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
