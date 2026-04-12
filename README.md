@@ -134,6 +134,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String
 |  |
 | ------- |
@@ -142,6 +143,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0541-reverse-string-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0657-robot-return-to-origin) |
 | [0344-reverse-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0344-reverse-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Math
 |  |
 | ------- |
@@ -178,4 +180,8 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0136-single-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0136-single-number) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
