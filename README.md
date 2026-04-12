@@ -63,6 +63,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0018-4sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0169-majority-element) |
 | [0136-single-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0136-single-number) |
+| [0047-permutations-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0047-permutations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0088-merge-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0088-merge-sorted-array) |
 | [0018-4sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0169-majority-element) |
+| [0047-permutations-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0047-permutations-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -184,4 +186,8 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
