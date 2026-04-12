@@ -100,6 +100,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0142-linked-list-cycle-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0061-rotate-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0061-rotate-list) |
 | [0018-4sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0018-4sum) |
+| [0344-reverse-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0344-reverse-string) |
 ## Design
 |  |
 | ------- |
@@ -140,6 +141,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [0541-reverse-string-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0657-robot-return-to-origin) |
+| [0344-reverse-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
