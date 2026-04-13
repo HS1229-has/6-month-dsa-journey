@@ -64,6 +64,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0169-majority-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0169-majority-element) |
 | [0136-single-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0136-single-number) |
 | [0047-permutations-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0047-permutations-ii) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Hash Table
 |  |
 | ------- |
