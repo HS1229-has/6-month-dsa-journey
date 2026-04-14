@@ -199,4 +199,8 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0084-largest-rectangle-in-histogram) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
