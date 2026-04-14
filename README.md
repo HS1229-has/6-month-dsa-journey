@@ -147,6 +147,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0657-robot-return-to-origin](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0657-robot-return-to-origin) |
 | [0344-reverse-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0344-reverse-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0020-valid-parentheses](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0020-valid-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -187,6 +188,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0020-valid-parentheses](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0020-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
