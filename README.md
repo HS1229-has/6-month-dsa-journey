@@ -207,4 +207,5 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0595-big-countries](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1683-invalid-tweets) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
