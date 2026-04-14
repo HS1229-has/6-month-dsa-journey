@@ -65,6 +65,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0136-single-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0136-single-number) |
 | [0047-permutations-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0047-permutations-ii) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1848-minimum-distance-to-the-target-element) |
+| [0084-largest-rectangle-in-histogram](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0084-largest-rectangle-in-histogram) |
 ## Hash Table
 |  |
 | ------- |
@@ -189,8 +190,13 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0020-valid-parentheses](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0084-largest-rectangle-in-histogram) |
 ## Backtracking
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0047-permutations-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
