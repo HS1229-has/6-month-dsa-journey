@@ -66,6 +66,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0047-permutations-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0047-permutations-ii) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1848-minimum-distance-to-the-target-element) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +150,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0344-reverse-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0344-reverse-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0020-valid-parentheses](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0020-valid-parentheses) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Math
 |  |
 | ------- |
