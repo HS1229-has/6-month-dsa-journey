@@ -214,4 +214,5 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1068-product-sales-analysis-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1068-product-sales-analysis-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [0197-rising-temperature](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0197-rising-temperature) |
+| [1661-average-time-of-process-per-machine](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
