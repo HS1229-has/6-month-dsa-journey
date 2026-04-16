@@ -67,6 +67,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1848-minimum-distance-to-the-target-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1848-minimum-distance-to-the-target-element) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3488-closest-equal-element-queries](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3488-closest-equal-element-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0142-linked-list-cycle-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0142-linked-list-cycle-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [0169-majority-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0169-majority-element) |
+| [3488-closest-equal-element-queries](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3488-closest-equal-element-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,6 +128,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0852-peak-index-in-a-mountain-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [3488-closest-equal-element-queries](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3488-closest-equal-element-queries) |
 ## Sorting
 |  |
 | ------- |
