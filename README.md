@@ -159,6 +159,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | ------- |
 | [0007-reverse-integer](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0048-rotate-image) |
+| [3783-mirror-distance-of-an-integer](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3783-mirror-distance-of-an-integer) |
 ## Matrix
 |  |
 | ------- |
