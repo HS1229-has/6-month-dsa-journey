@@ -68,6 +68,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0084-largest-rectangle-in-histogram](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3488-closest-equal-element-queries](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3488-closest-equal-element-queries) |
+| [0046-permutations](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0046-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -202,6 +203,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0047-permutations-ii) |
+| [0046-permutations](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0046-permutations) |
 ## Monotonic Stack
 |  |
 | ------- |
