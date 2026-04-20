@@ -69,6 +69,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3488-closest-equal-element-queries](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3488-closest-equal-element-queries) |
 | [0046-permutations](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0046-permutations) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +145,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | ------- |
 | [0011-container-with-most-water](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## String
 |  |
 | ------- |
