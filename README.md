@@ -109,6 +109,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0061-rotate-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0061-rotate-list) |
 | [0018-4sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0018-4sum) |
 | [0344-reverse-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0344-reverse-string) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -157,6 +158,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0020-valid-parentheses](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0020-valid-parentheses) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -225,4 +227,8 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0197-rising-temperature](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0197-rising-temperature) |
 | [1661-average-time-of-process-per-machine](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1661-average-time-of-process-per-machine) |
 | [0577-employee-bonus](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0577-employee-bonus) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
