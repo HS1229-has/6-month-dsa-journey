@@ -159,6 +159,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0020-valid-parentheses](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0020-valid-parentheses) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2833-furthest-point-from-origin](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2833-furthest-point-from-origin) |
 ## Math
 |  |
 | ------- |
@@ -193,6 +194,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0169-majority-element) |
+| [2833-furthest-point-from-origin](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2833-furthest-point-from-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
