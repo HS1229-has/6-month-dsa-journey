@@ -70,6 +70,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3488-closest-equal-element-queries](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3488-closest-equal-element-queries) |
 | [0046-permutations](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0046-permutations) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [0074-search-a-2d-matrix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [3488-closest-equal-element-queries](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3488-closest-equal-element-queries) |
+| [0074-search-a-2d-matrix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0074-search-a-2d-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -171,6 +173,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
 | ------- |
