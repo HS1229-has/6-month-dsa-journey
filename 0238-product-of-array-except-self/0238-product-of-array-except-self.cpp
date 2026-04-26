@@ -18,7 +18,7 @@ int n=nums.size();
 vector<int>p(n,1);
 vector<int>s(n,1);
 vector<int>ans(n,1);
-
+                                                            //OPTIMAL
 s[n-1]=1;
 for(int i=1;i<n;i++){
     p[i]=p[i-1]*nums[i-1];
