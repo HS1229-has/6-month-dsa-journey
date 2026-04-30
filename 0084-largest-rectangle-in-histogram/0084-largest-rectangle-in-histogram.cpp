@@ -4,7 +4,7 @@ public:
         // int n= heights.size();
         // int maxx=0;
         // for(int i=0;i<n;i++){
-        //    int h= heights[i];
+          // int h= heights[i];
         //    int left=i-1;
         //    while(left>=0 && heights[left]>=h){
         //     left--;
