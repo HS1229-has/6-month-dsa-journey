@@ -165,6 +165,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2833-furthest-point-from-origin) |
+| [0058-length-of-last-word](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0058-length-of-last-word) |
 ## Math
 |  |
 | ------- |
