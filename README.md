@@ -72,6 +72,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [2078-two-furthest-houses-with-different-colors](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [0074-search-a-2d-matrix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0074-search-a-2d-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0977-squares-of-a-sorted-array) |
+| [0396-rotate-function](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0396-rotate-function) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | ------- |
 | [0053-maximum-subarray](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0152-maximum-product-subarray) |
+| [0396-rotate-function](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0396-rotate-function) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +175,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0048-rotate-image](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0048-rotate-image) |
 | [3783-mirror-distance-of-an-integer](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3783-mirror-distance-of-an-integer) |
 | [0009-palindrome-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0009-palindrome-number) |
+| [0396-rotate-function](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0396-rotate-function) |
 ## Matrix
 |  |
 | ------- |
