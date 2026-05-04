@@ -73,6 +73,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0074-search-a-2d-matrix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0074-search-a-2d-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0396-rotate-function](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0396-rotate-function) |
+| [0455-assign-cookies](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0125-valid-palindrome](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0125-valid-palindrome) |
+| [0455-assign-cookies](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0455-assign-cookies) |
 ## Design
 |  |
 | ------- |
@@ -149,12 +151,14 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0169-majority-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0169-majority-element) |
 | [0047-permutations-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0047-permutations-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0977-squares-of-a-sorted-array) |
+| [0455-assign-cookies](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [0455-assign-cookies](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
