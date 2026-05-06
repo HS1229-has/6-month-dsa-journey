@@ -74,6 +74,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0977-squares-of-a-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0396-rotate-function](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0455-assign-cookies) |
+| [1861-rotating-the-box](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1861-rotating-the-box) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0977-squares-of-a-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0125-valid-palindrome](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0455-assign-cookies) |
+| [1861-rotating-the-box](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1861-rotating-the-box) |
 ## Design
 |  |
 | ------- |
@@ -188,6 +190,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | ------- |
 | [0048-rotate-image](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0074-search-a-2d-matrix) |
+| [1861-rotating-the-box](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1861-rotating-the-box) |
 ## Simulation
 |  |
 | ------- |
