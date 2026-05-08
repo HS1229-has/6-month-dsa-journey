@@ -75,6 +75,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0396-rotate-function](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0455-assign-cookies) |
 | [1861-rotating-the-box](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1861-rotating-the-box) |
+| [0049-group-anagrams](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0169-majority-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0169-majority-element) |
 | [3488-closest-equal-element-queries](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3488-closest-equal-element-queries) |
 | [0387-first-unique-character-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0049-group-anagrams](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0049-group-anagrams) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -155,6 +157,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0047-permutations-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0047-permutations-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0455-assign-cookies](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0455-assign-cookies) |
+| [0049-group-anagrams](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0049-group-anagrams) |
 ## Greedy
 |  |
 | ------- |
@@ -178,6 +181,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0058-length-of-last-word](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0049-group-anagrams](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0049-group-anagrams) |
 ## Math
 |  |
 | ------- |
