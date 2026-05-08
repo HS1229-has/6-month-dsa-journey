@@ -86,6 +86,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [0169-majority-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0169-majority-element) |
 | [3488-closest-equal-element-queries](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3488-closest-equal-element-queries) |
+| [0387-first-unique-character-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -176,6 +177,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [2833-furthest-point-from-origin](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2833-furthest-point-from-origin) |
 | [0058-length-of-last-word](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -215,6 +217,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | ------- |
 | [0169-majority-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0169-majority-element) |
 | [2833-furthest-point-from-origin](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2833-furthest-point-from-origin) |
+| [0387-first-unique-character-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -254,4 +257,8 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
