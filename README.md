@@ -77,6 +77,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1861-rotating-the-box](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1861-rotating-the-box) |
 | [0049-group-anagrams](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0049-group-anagrams) |
 | [3724-minimum-operations-to-transform-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3724-minimum-operations-to-transform-array) |
+| [0162-find-peak-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0033-search-in-rotated-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [3488-closest-equal-element-queries](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3488-closest-equal-element-queries) |
 | [0074-search-a-2d-matrix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0162-find-peak-element) |
 ## Sorting
 |  |
 | ------- |
