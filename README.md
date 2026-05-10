@@ -262,6 +262,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1661-average-time-of-process-per-machine](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1661-average-time-of-process-per-machine) |
 | [0577-employee-bonus](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0577-employee-bonus) |
 | [1280-students-and-examinations](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1280-students-and-examinations) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0570-managers-with-at-least-5-direct-reports) |
 ## String Matching
 |  |
 | ------- |
