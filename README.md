@@ -270,6 +270,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0577-employee-bonus](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0577-employee-bonus) |
 | [1280-students-and-examinations](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1280-students-and-examinations) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1934-confirmation-rate](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1934-confirmation-rate) |
 ## String Matching
 |  |
 | ------- |
