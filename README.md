@@ -78,6 +78,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0049-group-anagrams](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0049-group-anagrams) |
 | [3724-minimum-operations-to-transform-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3724-minimum-operations-to-transform-array) |
 | [0162-find-peak-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0162-find-peak-element) |
+| [2553-separate-the-digits-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -205,6 +206,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0657-robot-return-to-origin) |
+| [2553-separate-the-digits-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2553-separate-the-digits-in-an-array) |
 ## Linked List
 |  |
 | ------- |
