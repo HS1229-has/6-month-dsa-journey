@@ -79,6 +79,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3724-minimum-operations-to-transform-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3724-minimum-operations-to-transform-array) |
 | [0162-find-peak-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0162-find-peak-element) |
 | [2553-separate-the-digits-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2553-separate-the-digits-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3488-closest-equal-element-queries](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3488-closest-equal-element-queries) |
 | [0387-first-unique-character-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0049-group-anagrams](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0049-group-anagrams) |
+| [0349-intersection-of-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,6 +128,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0125-valid-palindrome](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0455-assign-cookies) |
 | [1861-rotating-the-box](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1861-rotating-the-box) |
+| [0349-intersection-of-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 ## Design
 |  |
 | ------- |
@@ -150,6 +153,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3488-closest-equal-element-queries](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3488-closest-equal-element-queries) |
 | [0074-search-a-2d-matrix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +166,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0977-squares-of-a-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0455-assign-cookies](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0455-assign-cookies) |
 | [0049-group-anagrams](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0049-group-anagrams) |
+| [0349-intersection-of-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
