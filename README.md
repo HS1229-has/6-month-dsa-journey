@@ -82,6 +82,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0349-intersection-of-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0414-third-maximum-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0414-third-maximum-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,6 +158,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0074-search-a-2d-matrix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
