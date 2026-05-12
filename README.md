@@ -84,6 +84,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0414-third-maximum-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0414-third-maximum-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0912-sort-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | ------- |
 | [0053-maximum-subarray](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,6 +178,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0349-intersection-of-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0414-third-maximum-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -288,4 +291,24 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
