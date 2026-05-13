@@ -85,6 +85,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0744-find-smallest-letter-greater-than-target](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0912-sort-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0912-sort-an-array) |
+| [0004-median-of-two-sorted-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0004-median-of-two-sorted-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0053-maximum-subarray](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0912-sort-an-array) |
+| [0004-median-of-two-sorted-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0004-median-of-two-sorted-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,6 +165,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0349-intersection-of-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0004-median-of-two-sorted-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0004-median-of-two-sorted-arrays) |
 ## Sorting
 |  |
 | ------- |
