@@ -87,6 +87,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0912-sort-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0912-sort-an-array) |
 | [0004-median-of-two-sorted-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [1089-duplicate-zeros](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1089-duplicate-zeros) |
+| [2784-check-if-array-is-good](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0049-group-anagrams](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2784-check-if-array-is-good) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -184,6 +186,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0442-find-all-duplicates-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0414-third-maximum-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0912-sort-an-array) |
+| [2784-check-if-array-is-good](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2784-check-if-array-is-good) |
 ## Greedy
 |  |
 | ------- |
