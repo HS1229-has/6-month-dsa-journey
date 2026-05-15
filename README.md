@@ -89,6 +89,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1089-duplicate-zeros](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1089-duplicate-zeros) |
 | [2784-check-if-array-is-good](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2784-check-if-array-is-good) |
 | [0027-remove-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0031-next-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +145,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0349-intersection-of-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [1089-duplicate-zeros](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1089-duplicate-zeros) |
 | [0027-remove-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0031-next-permutation) |
 ## Design
 |  |
 | ------- |
