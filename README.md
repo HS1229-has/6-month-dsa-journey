@@ -148,6 +148,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0901-online-stock-span) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -266,6 +267,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0020-valid-parentheses](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0901-online-stock-span](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0901-online-stock-span) |
 ## Backtracking
 |  |
 | ------- |
@@ -275,6 +277,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0901-online-stock-span](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0901-online-stock-span) |
 ## Database
 |  |
 | ------- |
@@ -321,4 +324,8 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0912-sort-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
