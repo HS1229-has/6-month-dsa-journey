@@ -91,6 +91,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0027-remove-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0042-trapping-rain-water) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +179,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0744-find-smallest-letter-greater-than-target](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0004-median-of-two-sorted-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Sorting
 |  |
 | ------- |
