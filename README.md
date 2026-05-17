@@ -93,6 +93,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0042-trapping-rain-water](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0042-trapping-rain-water) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0189-rotate-array) |
+| [0496-next-greater-element-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0349-intersection-of-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2784-check-if-array-is-good) |
+| [0496-next-greater-element-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -279,6 +281,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0084-largest-rectangle-in-histogram](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0901-online-stock-span](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0901-online-stock-span) |
 | [0042-trapping-rain-water](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -290,6 +293,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0084-largest-rectangle-in-histogram](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0901-online-stock-span](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0901-online-stock-span) |
 | [0042-trapping-rain-water](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0496-next-greater-element-i) |
 ## Database
 |  |
 | ------- |
