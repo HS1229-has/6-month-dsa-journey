@@ -92,6 +92,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0031-next-permutation](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0042-trapping-rain-water) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +151,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0027-remove-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0189-rotate-array) |
 ## Design
 |  |
 | ------- |
@@ -231,6 +233,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0009-palindrome-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0009-palindrome-number) |
 | [0396-rotate-function](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0396-rotate-function) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [0189-rotate-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
