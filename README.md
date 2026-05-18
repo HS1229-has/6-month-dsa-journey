@@ -282,6 +282,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0901-online-stock-span](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0901-online-stock-span) |
 | [0042-trapping-rain-water](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0496-next-greater-element-i) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0144-binary-tree-preorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
@@ -344,4 +345,16 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0901-online-stock-span) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
