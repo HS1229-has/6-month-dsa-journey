@@ -94,6 +94,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0496-next-greater-element-i) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0442-find-all-duplicates-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2784-check-if-array-is-good) |
 | [0496-next-greater-element-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0496-next-greater-element-i) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -273,6 +275,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | ------- |
 | [0136-single-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
