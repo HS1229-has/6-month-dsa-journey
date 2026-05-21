@@ -122,6 +122,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0169-majority-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0912-sort-an-array) |
 | [0004-median-of-two-sorted-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,6 +159,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0031-next-permutation](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0189-rotate-array) |
+| [0148-sort-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0148-sort-list) |
 ## Design
 |  |
 | ------- |
@@ -205,6 +207,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0414-third-maximum-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0912-sort-an-array) |
 | [2784-check-if-array-is-good](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2784-check-if-array-is-good) |
+| [0148-sort-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -262,6 +265,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0142-linked-list-cycle-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0061-rotate-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0061-rotate-list) |
 | [0021-merge-two-sorted-lists](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0021-merge-two-sorted-lists) |
+| [0148-sort-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -335,6 +339,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0912-sort-an-array) |
+| [0148-sort-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0148-sort-list) |
 ## Bucket Sort
 |  |
 | ------- |
