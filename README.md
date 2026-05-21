@@ -95,6 +95,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0189-rotate-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0496-next-greater-element-i) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [2784-check-if-array-is-good](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2784-check-if-array-is-good) |
 | [0496-next-greater-element-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0496-next-greater-element-i) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -228,6 +230,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0125-valid-palindrome](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0049-group-anagrams](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0049-group-anagrams) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Math
 |  |
 | ------- |
@@ -360,4 +363,8 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0144-binary-tree-preorder-traversal) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
