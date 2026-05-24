@@ -98,6 +98,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [0217-contains-duplicate](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
