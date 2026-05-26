@@ -100,6 +100,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0217-contains-duplicate](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0485-max-consecutive-ones) |
 | [0054-spiral-matrix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0054-spiral-matrix) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -165,6 +167,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0042-trapping-rain-water](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0189-rotate-array) |
 | [0148-sort-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0148-sort-list) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Design
 |  |
 | ------- |
@@ -195,6 +198,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0540-single-element-in-a-sorted-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0004-median-of-two-sorted-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -214,6 +218,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [2784-check-if-array-is-good](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2784-check-if-array-is-good) |
 | [0148-sort-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
 |  |
 | ------- |
