@@ -99,6 +99,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [0217-contains-duplicate](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0485-max-consecutive-ones) |
+| [0054-spiral-matrix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -255,11 +256,13 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0048-rotate-image](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0074-search-a-2d-matrix) |
 | [1861-rotating-the-box](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1861-rotating-the-box) |
+| [0054-spiral-matrix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0657-robot-return-to-origin) |
 | [2553-separate-the-digits-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2553-separate-the-digits-in-an-array) |
+| [0054-spiral-matrix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0054-spiral-matrix) |
 ## Linked List
 |  |
 | ------- |
