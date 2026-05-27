@@ -101,6 +101,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0485-max-consecutive-ones](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0485-max-consecutive-ones) |
 | [0054-spiral-matrix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0054-spiral-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1184-distance-between-bus-stops](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1184-distance-between-bus-stops) |
 ## Hash Table
 |  |
 | ------- |
