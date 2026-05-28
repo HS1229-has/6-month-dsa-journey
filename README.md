@@ -103,6 +103,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0350-intersection-of-two-arrays-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1184-distance-between-bus-stops](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1184-distance-between-bus-stops) |
 | [2706-buy-two-chocolates](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2706-buy-two-chocolates) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0152-maximum-product-subarray](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0152-maximum-product-subarray) |
 | [0396-rotate-function](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0396-rotate-function) |
 | [0042-trapping-rain-water](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
