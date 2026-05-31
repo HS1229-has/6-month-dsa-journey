@@ -105,6 +105,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [2706-buy-two-chocolates](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2706-buy-two-chocolates) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2126-destroying-asteroids](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2126-destroying-asteroids) |
+| [0041-first-missing-positive](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0041-first-missing-positive) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0041-first-missing-positive](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0041-first-missing-positive) |
 ## Divide and Conquer
 |  |
 | ------- |
