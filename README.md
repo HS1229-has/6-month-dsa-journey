@@ -104,6 +104,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1184-distance-between-bus-stops](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1184-distance-between-bus-stops) |
 | [2706-buy-two-chocolates](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2706-buy-two-chocolates) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2126-destroying-asteroids](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2126-destroying-asteroids) |
 ## Hash Table
 |  |
 | ------- |
@@ -224,6 +225,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0217-contains-duplicate](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2706-buy-two-chocolates](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2706-buy-two-chocolates) |
+| [2126-destroying-asteroids](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2126-destroying-asteroids) |
 ## Greedy
 |  |
 | ------- |
@@ -233,6 +235,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0455-assign-cookies](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0455-assign-cookies) |
 | [3724-minimum-operations-to-transform-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3724-minimum-operations-to-transform-array) |
 | [2706-buy-two-chocolates](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2706-buy-two-chocolates) |
+| [2126-destroying-asteroids](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2126-destroying-asteroids) |
 ## String
 |  |
 | ------- |
