@@ -107,6 +107,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [2126-destroying-asteroids](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2126-destroying-asteroids) |
 | [0041-first-missing-positive](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0041-first-missing-positive) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [0204-count-primes](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -269,6 +270,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0396-rotate-function](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0396-rotate-function) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [0189-rotate-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0204-count-primes) |
 ## Matrix
 |  |
 | ------- |
@@ -399,4 +401,12 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
