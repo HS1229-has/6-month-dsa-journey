@@ -106,6 +106,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2126-destroying-asteroids](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2126-destroying-asteroids) |
 | [0041-first-missing-positive](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0041-first-missing-positive) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
 |  |
 | ------- |
@@ -228,6 +229,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0350-intersection-of-two-arrays-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2706-buy-two-chocolates](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2706-buy-two-chocolates) |
 | [2126-destroying-asteroids](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Greedy
 |  |
 | ------- |
@@ -238,6 +240,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3724-minimum-operations-to-transform-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3724-minimum-operations-to-transform-array) |
 | [2706-buy-two-chocolates](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2706-buy-two-chocolates) |
 | [2126-destroying-asteroids](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## String
 |  |
 | ------- |
