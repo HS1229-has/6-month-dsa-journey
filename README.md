@@ -108,6 +108,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0041-first-missing-positive](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0041-first-missing-positive) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [0204-count-primes](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0204-count-primes) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,6 +178,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0189-rotate-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0189-rotate-array) |
 | [0148-sort-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Design
 |  |
 | ------- |
@@ -208,6 +210,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0004-median-of-two-sorted-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -231,6 +234,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [2706-buy-two-chocolates](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2706-buy-two-chocolates) |
 | [2126-destroying-asteroids](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
 | ------- |
@@ -242,6 +246,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [2706-buy-two-chocolates](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2706-buy-two-chocolates) |
 | [2126-destroying-asteroids](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
 | ------- |
