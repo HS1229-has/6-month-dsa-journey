@@ -8,5 +8,4 @@ public:
         }while(next_permutation(nums.begin(),nums.end()));
         return ans;
     }
-    
 };
