@@ -181,6 +181,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0350-intersection-of-two-arrays-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0151-reverse-words-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -270,6 +271,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0387-first-unique-character-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0049-group-anagrams](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0049-group-anagrams) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [0151-reverse-words-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0151-reverse-words-in-a-string) |
 ## Math
 |  |
 | ------- |
