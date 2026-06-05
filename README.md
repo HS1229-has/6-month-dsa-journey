@@ -148,6 +148,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0396-rotate-function](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0396-rotate-function) |
 | [0042-trapping-rain-water](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -283,6 +284,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [0189-rotate-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0204-count-primes) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Matrix
 |  |
 | ------- |
