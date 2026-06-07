@@ -111,6 +111,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2574-left-and-right-sum-differences) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +134,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0217-contains-duplicate](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0041-first-missing-positive](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0041-first-missing-positive) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -405,6 +407,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -413,6 +416,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Trie
 |  |
 | ------- |
