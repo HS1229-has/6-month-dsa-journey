@@ -112,6 +112,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2574-left-and-right-sum-differences) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,6 +187,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0151-reverse-words-in-a-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Design
 |  |
 | ------- |
@@ -302,6 +304,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0657-robot-return-to-origin](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0657-robot-return-to-origin) |
 | [2553-separate-the-digits-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [0054-spiral-matrix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0054-spiral-matrix) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Linked List
 |  |
 | ------- |
