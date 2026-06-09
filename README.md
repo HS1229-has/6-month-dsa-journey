@@ -113,6 +113,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [2574-left-and-right-sum-differences](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2574-left-and-right-sum-differences) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3689-maximum-total-subarray-value-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -260,6 +261,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3689-maximum-total-subarray-value-i) |
 ## String
 |  |
 | ------- |
