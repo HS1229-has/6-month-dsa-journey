@@ -4,7 +4,7 @@ public:
         if(nums.size()<=1){
             return 0;
         }else 
-        sort(nums.begin(),nums.end());
+        sort(nums.begin(),nums.end());                                        //not optimized
         int ans= INT_MIN;
         for(int i=1;i<nums.size();i++){
             ans = max(ans,(nums[i]-nums[i-1]));
