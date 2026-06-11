@@ -116,6 +116,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3689-maximum-total-subarray-value-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3689-maximum-total-subarray-value-i) |
 | [0164-maximum-gap](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0164-maximum-gap) |
 | [0561-array-partition](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0561-array-partition) |
+| [1122-relative-sort-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1122-relative-sort-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0350-intersection-of-two-arrays-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0041-first-missing-positive](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0041-first-missing-positive) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2196-create-binary-tree-from-descriptions) |
+| [1122-relative-sort-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1122-relative-sort-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -252,6 +254,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [0164-maximum-gap](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0164-maximum-gap) |
 | [0561-array-partition](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0561-array-partition) |
+| [1122-relative-sort-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1122-relative-sort-array) |
 ## Greedy
 |  |
 | ------- |
@@ -412,6 +415,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | ------- |
 | [0912-sort-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0912-sort-an-array) |
 | [0561-array-partition](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0561-array-partition) |
+| [1122-relative-sort-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1122-relative-sort-array) |
 ## Data Stream
 |  |
 | ------- |
