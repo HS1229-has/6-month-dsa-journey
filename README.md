@@ -115,6 +115,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [2161-partition-array-according-to-given-pivot](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3689-maximum-total-subarray-value-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3689-maximum-total-subarray-value-i) |
 | [0164-maximum-gap](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0164-maximum-gap) |
+| [0561-array-partition](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -250,6 +251,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [0164-maximum-gap](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0164-maximum-gap) |
+| [0561-array-partition](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0561-array-partition) |
 ## Greedy
 |  |
 | ------- |
@@ -264,6 +266,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3689-maximum-total-subarray-value-i) |
+| [0561-array-partition](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0561-array-partition) |
 ## String
 |  |
 | ------- |
@@ -408,6 +411,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0912-sort-an-array) |
+| [0561-array-partition](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0561-array-partition) |
 ## Data Stream
 |  |
 | ------- |
