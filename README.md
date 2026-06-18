@@ -305,6 +305,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0189-rotate-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0204-count-primes) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Matrix
 |  |
 | ------- |
