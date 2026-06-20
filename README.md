@@ -119,6 +119,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1122-relative-sort-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1122-relative-sort-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [0215-kth-largest-element-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0912-sort-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0912-sort-an-array) |
 | [0004-median-of-two-sorted-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -259,6 +261,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1122-relative-sort-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1122-relative-sort-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [0215-kth-largest-element-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0215-kth-largest-element-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -401,6 +404,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0912-sort-an-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -452,4 +456,8 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0204-count-primes) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
