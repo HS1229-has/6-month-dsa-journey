@@ -145,6 +145,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0041-first-missing-positive](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0041-first-missing-positive) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2196-create-binary-tree-from-descriptions) |
 | [1122-relative-sort-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1122-relative-sort-array) |
+| [1189-maximum-number-of-balloons](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -299,6 +300,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0049-group-anagrams](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0049-group-anagrams) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0151-reverse-words-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1189-maximum-number-of-balloons) |
 ## Math
 |  |
 | ------- |
@@ -348,6 +350,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0169-majority-element](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0169-majority-element) |
 | [2833-furthest-point-from-origin](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2833-furthest-point-from-origin) |
 | [0387-first-unique-character-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1189-maximum-number-of-balloons) |
 ## Bit Manipulation
 |  |
 | ------- |
