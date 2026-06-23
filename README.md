@@ -121,6 +121,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1833-maximum-ice-cream-bars) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [2196-create-binary-tree-from-descriptions](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2196-create-binary-tree-from-descriptions) |
 | [1122-relative-sort-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1189-maximum-number-of-balloons) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -199,6 +201,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0151-reverse-words-in-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2161-partition-array-according-to-given-pivot) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Design
 |  |
 | ------- |
@@ -233,6 +236,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0350-intersection-of-two-arrays-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -265,6 +269,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1833-maximum-ice-cream-bars) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
 | ------- |
