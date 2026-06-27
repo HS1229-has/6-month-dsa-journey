@@ -123,6 +123,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1833-maximum-ice-cream-bars](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +151,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1189-maximum-number-of-balloons](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -470,6 +472,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0204-count-primes) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Number Theory
 |  |
 | ------- |
