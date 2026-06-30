@@ -152,6 +152,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1346-check-if-n-and-its-double-exist](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -312,6 +313,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0151-reverse-words-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1189-maximum-number-of-balloons) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
 |  |
 | ------- |
