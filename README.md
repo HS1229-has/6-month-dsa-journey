@@ -156,6 +156,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3120-count-the-number-of-special-characters-i) |
 | [1331-rank-transform-of-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1331-rank-transform-of-an-array) |
+| [0409-longest-palindrome](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0409-longest-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -300,6 +301,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3689-maximum-total-subarray-value-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3689-maximum-total-subarray-value-i) |
 | [0561-array-partition](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0561-array-partition) |
 | [1833-maximum-ice-cream-bars](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1833-maximum-ice-cream-bars) |
+| [0409-longest-palindrome](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0409-longest-palindrome) |
 ## String
 |  |
 | ------- |
@@ -321,6 +323,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0151-reverse-words-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0151-reverse-words-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1189-maximum-number-of-balloons) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3120-count-the-number-of-special-characters-i) |
+| [0409-longest-palindrome](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0409-longest-palindrome) |
 ## Math
 |  |
 | ------- |
