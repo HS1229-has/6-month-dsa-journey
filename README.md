@@ -337,6 +337,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0204-count-primes](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0204-count-primes) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1344-angle-between-hands-of-a-clock) |
+| [0258-add-digits](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0258-add-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -351,6 +352,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [2553-separate-the-digits-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [0054-spiral-matrix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0054-spiral-matrix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2161-partition-array-according-to-given-pivot) |
+| [0258-add-digits](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0258-add-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -489,6 +491,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0258-add-digits) |
 ## Quickselect
 |  |
 | ------- |
