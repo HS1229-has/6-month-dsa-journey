@@ -338,6 +338,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1344-angle-between-hands-of-a-clock) |
 | [0258-add-digits](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0258-add-digits) |
+| [2235-add-two-integers](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2235-add-two-integers) |
 ## Matrix
 |  |
 | ------- |
