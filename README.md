@@ -126,6 +126,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [1331-rank-transform-of-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3131-find-the-integer-added-to-array-i) |
 ## Hash Table
 |  |
 | ------- |
