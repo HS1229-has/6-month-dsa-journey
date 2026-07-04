@@ -158,6 +158,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3120-count-the-number-of-special-characters-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3120-count-the-number-of-special-characters-i) |
 | [1331-rank-transform-of-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1331-rank-transform-of-an-array) |
 | [0409-longest-palindrome](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0409-longest-palindrome) |
+| [0202-happy-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -214,6 +215,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [2161-partition-array-according-to-given-pivot](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [0202-happy-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0202-happy-number) |
 ## Design
 |  |
 | ------- |
@@ -340,6 +342,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1344-angle-between-hands-of-a-clock](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1344-angle-between-hands-of-a-clock) |
 | [0258-add-digits](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2235-add-two-integers) |
+| [0202-happy-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0202-happy-number) |
 ## Matrix
 |  |
 | ------- |
