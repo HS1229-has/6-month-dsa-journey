@@ -345,6 +345,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0258-add-digits](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2235-add-two-integers) |
 | [0202-happy-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0202-happy-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Matrix
 |  |
 | ------- |
