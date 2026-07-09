@@ -129,6 +129,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3131-find-the-integer-added-to-array-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3131-find-the-integer-added-to-array-i) |
 | [1288-remove-covered-intervals](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1288-remove-covered-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -219,6 +220,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1346-check-if-n-and-its-double-exist](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [0202-happy-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0202-happy-number) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Design
 |  |
 | ------- |
@@ -256,6 +258,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sorting
 |  |
 | ------- |
