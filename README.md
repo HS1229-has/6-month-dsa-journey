@@ -130,6 +130,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1288-remove-covered-intervals](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1288-remove-covered-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,6 +164,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0409-longest-palindrome](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0409-longest-palindrome) |
 | [0202-happy-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0202-happy-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Divide and Conquer
 |  |
 | ------- |
