@@ -131,6 +131,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -353,6 +354,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [2235-add-two-integers](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2235-add-two-integers) |
 | [0202-happy-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0202-happy-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Matrix
 |  |
 | ------- |
