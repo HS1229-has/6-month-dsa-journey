@@ -355,6 +355,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0202-happy-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0202-happy-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [0326-power-of-three](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0326-power-of-three) |
 ## Matrix
 |  |
 | ------- |
@@ -386,6 +387,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | ------- |
 | [0206-reverse-linked-list](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0206-reverse-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0021-merge-two-sorted-lists) |
+| [0326-power-of-three](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0326-power-of-three) |
 ## Counting
 |  |
 | ------- |
