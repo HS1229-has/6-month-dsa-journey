@@ -133,6 +133,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1636-sort-array-by-increasing-frequency) |
+| [0056-merge-intervals](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0056-merge-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -301,6 +302,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1288-remove-covered-intervals](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1288-remove-covered-intervals) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1636-sort-array-by-increasing-frequency) |
+| [0056-merge-intervals](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0056-merge-intervals) |
 ## Greedy
 |  |
 | ------- |
