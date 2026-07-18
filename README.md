@@ -134,6 +134,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1636-sort-array-by-increasing-frequency) |
 | [0056-merge-intervals](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0056-merge-intervals) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -361,6 +362,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [0326-power-of-three](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0326-power-of-three) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
 |  |
 | ------- |
@@ -516,6 +518,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | ------- |
 | [0204-count-primes](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Quickselect
 |  |
 | ------- |
