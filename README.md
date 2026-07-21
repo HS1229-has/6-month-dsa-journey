@@ -135,6 +135,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1636-sort-array-by-increasing-frequency](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1636-sort-array-by-increasing-frequency) |
 | [0056-merge-intervals](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0056-merge-intervals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1260-shift-2d-grid](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -370,6 +371,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0074-search-a-2d-matrix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0074-search-a-2d-matrix) |
 | [1861-rotating-the-box](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1861-rotating-the-box) |
 | [0054-spiral-matrix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -378,6 +380,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0054-spiral-matrix](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0054-spiral-matrix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [0258-add-digits](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0258-add-digits) |
+| [1260-shift-2d-grid](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1260-shift-2d-grid) |
 ## Linked List
 |  |
 | ------- |
