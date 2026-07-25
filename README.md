@@ -305,6 +305,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1288-remove-covered-intervals](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1288-remove-covered-intervals) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1636-sort-array-by-increasing-frequency) |
 | [0056-merge-intervals](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0056-merge-intervals) |
+| [3536-maximum-product-of-two-digits](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -364,6 +365,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [0326-power-of-three](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0326-power-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |
 | ------- |
