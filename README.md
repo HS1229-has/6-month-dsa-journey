@@ -136,6 +136,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0056-merge-intervals](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0056-merge-intervals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1260-shift-2d-grid](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -306,6 +307,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1636-sort-array-by-increasing-frequency](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1636-sort-array-by-increasing-frequency) |
 | [0056-merge-intervals](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0056-merge-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3536-maximum-product-of-two-digits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -468,6 +470,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | ------- |
 | [0912-sort-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0912-sort-an-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
