@@ -232,6 +232,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [0202-happy-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0202-happy-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [0443-string-compression](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0443-string-compression) |
 ## Design
 |  |
 | ------- |
@@ -350,6 +351,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1189-maximum-number-of-balloons](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1189-maximum-number-of-balloons) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3120-count-the-number-of-special-characters-i) |
 | [0409-longest-palindrome](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0443-string-compression) |
 ## Math
 |  |
 | ------- |
