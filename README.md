@@ -138,6 +138,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1260-shift-2d-grid](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -233,6 +234,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0202-happy-number](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0202-happy-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [0443-string-compression](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0443-string-compression) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Design
 |  |
 | ------- |
@@ -312,6 +314,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3536-maximum-product-of-two-digits](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3536-maximum-product-of-two-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -329,6 +332,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0561-array-partition](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0561-array-partition) |
 | [1833-maximum-ice-cream-bars](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [0409-longest-palindrome](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0409-longest-palindrome) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
 | ------- |
