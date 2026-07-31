@@ -333,6 +333,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1833-maximum-ice-cream-bars](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [0409-longest-palindrome](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0409-longest-palindrome) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
 | ------- |
@@ -356,6 +357,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3120-count-the-number-of-special-characters-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3120-count-the-number-of-special-characters-i) |
 | [0409-longest-palindrome](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0443-string-compression) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Math
 |  |
 | ------- |
@@ -377,6 +379,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0326-power-of-three](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0326-power-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3536-maximum-product-of-two-digits) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
 |  |
 | ------- |
