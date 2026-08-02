@@ -139,6 +139,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +176,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -422,6 +424,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0387-first-unique-character-in-a-string](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
