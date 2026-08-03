@@ -177,6 +177,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1636-sort-array-by-increasing-frequency](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1399-count-largest-group](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1399-count-largest-group) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -382,6 +383,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [1399-count-largest-group](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1399-count-largest-group) |
 ## Matrix
 |  |
 | ------- |
@@ -425,6 +427,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1189-maximum-number-of-balloons](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1399-count-largest-group](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1399-count-largest-group) |
 ## Bit Manipulation
 |  |
 | ------- |
