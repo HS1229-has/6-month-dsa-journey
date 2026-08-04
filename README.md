@@ -140,6 +140,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3731-find-missing-elements](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +179,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1399-count-largest-group) |
+| [3731-find-missing-elements](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -318,6 +320,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3731-find-missing-elements](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
