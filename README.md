@@ -141,6 +141,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3731-find-missing-elements](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3731-find-missing-elements) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -340,6 +341,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [0409-longest-palindrome](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/0409-longest-palindrome) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## String
 |  |
 | ------- |
