@@ -389,6 +389,7 @@ This repo is a record of my learning process. I’m focusing on understanding co
 | [3536-maximum-product-of-two-digits](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [1399-count-largest-group](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/1399-count-largest-group) |
+| [3870-count-commas-in-range](https://github.com/HS1229-has/6-month-dsa-journey/tree/master/3870-count-commas-in-range) |
 ## Matrix
 |  |
 | ------- |
